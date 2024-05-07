@@ -1,1 +1,3 @@
 Este es el segundo contenido del fichero 1
+
+releases/v1.0
